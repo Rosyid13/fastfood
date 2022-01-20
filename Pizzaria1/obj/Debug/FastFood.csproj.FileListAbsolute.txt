@@ -1,0 +1,60 @@
+D:\Kuliah\Semester 3\PEMROGRAMAN LANJUT\Project-FastFood\Pizzaria1\obj\Debug\FastFood.csproj.AssemblyReference.cache
+D:\Kuliah\Semester 3\PEMROGRAMAN LANJUT\Project-FastFood\Pizzaria1\obj\Debug\FastFood.csproj.SuggestedBindingRedirects.cache
+D:\Kuliah\Semester 3\PEMROGRAMAN LANJUT\Project-FastFood\Pizzaria1\obj\Debug\MainWindow.g.cs
+D:\Kuliah\Semester 3\PEMROGRAMAN LANJUT\Project-FastFood\Pizzaria1\obj\Debug\MenuMakan.g.cs
+D:\Kuliah\Semester 3\PEMROGRAMAN LANJUT\Project-FastFood\Pizzaria1\obj\Debug\Home.g.cs
+D:\Kuliah\Semester 3\PEMROGRAMAN LANJUT\Project-FastFood\Pizzaria1\obj\Debug\Pesan.g.cs
+D:\Kuliah\Semester 3\PEMROGRAMAN LANJUT\Project-FastFood\Pizzaria1\obj\Debug\App.g.cs
+D:\Kuliah\Semester 3\PEMROGRAMAN LANJUT\Project-FastFood\Pizzaria1\obj\Debug\Pizzaria1_MarkupCompile.cache
+D:\Kuliah\Semester 3\PEMROGRAMAN LANJUT\Project-FastFood\Pizzaria1\obj\Debug\Pizzaria1_MarkupCompile.lref
+D:\Kuliah\Semester 3\PEMROGRAMAN LANJUT\Project-FastFood\Pizzaria1\obj\Debug\Pizzaria1.exe
+D:\Kuliah\Semester 3\PEMROGRAMAN LANJUT\Project-FastFood\Pizzaria1\obj\Debug\Pizzaria1.pdb
+D:\Kuliah\Semester 3\PEMROGRAMAN LANJUT\Project-FastFood\Pizzaria1\bin\Debug\Pizzaria1.exe.config
+D:\Kuliah\Semester 3\PEMROGRAMAN LANJUT\Project-FastFood\Pizzaria1\bin\Debug\Pizzaria1.exe
+D:\Kuliah\Semester 3\PEMROGRAMAN LANJUT\Project-FastFood\Pizzaria1\bin\Debug\Pizzaria1.pdb
+D:\Kuliah\Semester 3\PEMROGRAMAN LANJUT\Project-FastFood\Pizzaria1\bin\Debug\MaterialDesignColors.dll
+D:\Kuliah\Semester 3\PEMROGRAMAN LANJUT\Project-FastFood\Pizzaria1\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Kuliah\Semester 3\PEMROGRAMAN LANJUT\Project-FastFood\Pizzaria1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Kuliah\Semester 3\PEMROGRAMAN LANJUT\Project-FastFood\Pizzaria1\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Kuliah\Semester 3\PEMROGRAMAN LANJUT\Project-FastFood\Pizzaria1\obj\Debug\App.baml
+D:\Kuliah\Semester 3\PEMROGRAMAN LANJUT\Project-FastFood\Pizzaria1\obj\Debug\MainWindow.baml
+D:\Kuliah\Semester 3\PEMROGRAMAN LANJUT\Project-FastFood\Pizzaria1\obj\Debug\MenuMakan.baml
+D:\Kuliah\Semester 3\PEMROGRAMAN LANJUT\Project-FastFood\Pizzaria1\obj\Debug\Home.baml
+D:\Kuliah\Semester 3\PEMROGRAMAN LANJUT\Project-FastFood\Pizzaria1\obj\Debug\Pesan.baml
+D:\Kuliah\Semester 3\PEMROGRAMAN LANJUT\Project-FastFood\Pizzaria1\obj\Debug\Pizzaria1.g.resources
+D:\Kuliah\Semester 3\PEMROGRAMAN LANJUT\Project-FastFood\Pizzaria1\obj\Debug\Pizzaria1.Properties.Resources.resources
+D:\Kuliah\Semester 3\PEMROGRAMAN LANJUT\Project-FastFood\Pizzaria1\obj\Debug\FastFood.csproj.GenerateResource.cache
+D:\Kuliah\Semester 3\PEMROGRAMAN LANJUT\Project-FastFood\Pizzaria1\obj\Debug\FastFood.csproj.CoreCompileInputs.cache
+D:\Kuliah\Semester 3\PEMROGRAMAN LANJUT\Project-FastFood\Pizzaria1\obj\Debug\FastFood.csproj.CopyComplete
+E:\Project-FastFood\Pizzaria1\bin\Debug\MaterialDesignColors.dll
+E:\Project-FastFood\Pizzaria1\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\Project-FastFood\Pizzaria1\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\Project-FastFood\Pizzaria1\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\Project-FastFood\Pizzaria1\obj\Debug\FastFood.csproj.AssemblyReference.cache
+E:\Project-FastFood\Pizzaria1\obj\Debug\FastFood.csproj.SuggestedBindingRedirects.cache
+E:\Project-FastFood\Pizzaria1\obj\Debug\App.g.cs
+E:\Project-FastFood\Pizzaria1\obj\Debug\App.baml
+E:\Project-FastFood\Pizzaria1\obj\Debug\FastFood.csproj.GenerateResource.cache
+E:\Project-FastFood\Pizzaria1\obj\Debug\FastFood.csproj.CoreCompileInputs.cache
+E:\Project-FastFood\Pizzaria1\obj\Debug\FastFood.csproj.CopyComplete
+E:\Project-FastFood\Pizzaria1\obj\Debug\View\DaftarPesan.g.cs
+E:\Project-FastFood\Pizzaria1\obj\Debug\View\DaftarPesan.baml
+E:\Project-FastFood\Pizzaria1\obj\Debug\View\Pesan.g.cs
+E:\Project-FastFood\Pizzaria1\obj\Debug\View\Pesan.baml
+E:\Project-FastFood\Pizzaria1\bin\Debug\Fastfood.exe.config
+E:\Project-FastFood\Pizzaria1\bin\Debug\Fastfood.exe
+E:\Project-FastFood\Pizzaria1\bin\Debug\Fastfood.pdb
+E:\Project-FastFood\Pizzaria1\obj\Debug\Fastfood_MarkupCompile.cache
+E:\Project-FastFood\Pizzaria1\obj\Debug\Fastfood_MarkupCompile.lref
+E:\Project-FastFood\Pizzaria1\obj\Debug\Fastfood.g.resources
+E:\Project-FastFood\Pizzaria1\obj\Debug\Fastfood.Properties.Resources.resources
+E:\Project-FastFood\Pizzaria1\obj\Debug\Fastfood.exe
+E:\Project-FastFood\Pizzaria1\obj\Debug\Fastfood.pdb
+E:\Project-FastFood\Pizzaria1\obj\Debug\View\MainWindow.g.cs
+E:\Project-FastFood\Pizzaria1\obj\Debug\View\MenuMakan.g.cs
+E:\Project-FastFood\Pizzaria1\obj\Debug\View\Home.g.cs
+E:\Project-FastFood\Pizzaria1\obj\Debug\View\MainWindow.baml
+E:\Project-FastFood\Pizzaria1\obj\Debug\View\MenuMakan.baml
+E:\Project-FastFood\Pizzaria1\obj\Debug\View\Home.baml
+E:\Project-FastFood\Pizzaria1\obj\Debug\View\UbahPesan.g.cs
+E:\Project-FastFood\Pizzaria1\obj\Debug\View\UbahPesan.baml
